@@ -7,12 +7,16 @@
 
 - 🔭 I’m currently working on **Ho Chi Minh City University of Technology and Education**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/thu%e1%ba%adn-v%c3%b5-minh-49402630b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thu%e1%ba%adn-v%c3%b5-minh-49402630b/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thu%e1%ba%adn-v%c3%b5-minh-49402630b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thu%e1%ba%adn-v%c3%b5-minh-49402630b" height="30" width="40" /></a>
 <a href="https://fb.com/vominh.thuan.1004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vominh.thuan.1004" height="30" width="40" /></a>
 <a href="https://instagram.com/albert_16.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="albert_16.5" height="30" width="40" /></a>
-<a href="https://medium.com/albert@16052003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="albert@16052003" height="30" width="40" /></a>
+<a href="https://medium.com/@vmthuan16052003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vmthuan16052003" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
