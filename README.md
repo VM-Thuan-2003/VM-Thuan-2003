@@ -37,7 +37,7 @@ Here are some of my main repositories:
 - [**Web HTN**](https://github.com/VM-Thuan-2003/web_htn)  
   A web development project showcasing modern front-end and back-end technologies.
 
-### Other Projects
+### For Other Projects in the Future
 
 - **Drone Projects**:
   - [Quadcopter Navigation Using Optical Flow](https://github.com/username/optical-flow-navigation)  
@@ -60,6 +60,7 @@ Here are some of my main repositories:
 ## 🌐 Get in Touch
 Feel free to explore my repositories, contribute to ongoing projects, or reach out for collaboration!
 
-- 📧 **Email**: [vmthuan16052003@gmail.com](mailto:vmthuan16052003@gmail.com)
+- 📧 **Email**: [your-email@example.com](mailto:your-email@example.com)
+- 💼 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
 
 Let's build something amazing together!
