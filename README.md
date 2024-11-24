@@ -1,69 +1,65 @@
-# User Profile
+# Welcome to My GitHub Profile
 
-Welcome to my development profile! Here's an overview of my projects, tools, and technologies.
+Hello! I'm a developer focused on embedded systems, robotics, machine learning, and web technologies. I love working on projects that integrate hardware and software, with an emphasis on practical applications such as drones, IoT, and FPV systems.
 
-## 🌐 Development Environment
-- **Operating Systems**: Ubuntu 20.04, Ubuntu
-- **Development Tools**: 
-  - Visual Studio Code (VSC)
-  - VNC Viewer
+## 🚀 Technologies & Tools
+- **Languages**: Python, C/C++
+- **Microcontrollers & SBCs**: ESP32, STM32, Raspberry Pi 4
+- **Frameworks & Libraries**: FastAPI (backend), ReactJS (frontend), DroneKit, MFRC522, MAVLink 2, TensorFlow
+- **Databases**: MongoDB (via Docker)
+- **Communication**: MAVLink 2, Socket.IO, HC12 modules
+- **Development Tools**: Visual Studio Code, VNC Viewer
 
-## 💻 Hardware
-- **Microcontrollers**: 
-  - ESP32
-  - STM32
-- **Single-Board Computers**: 
-  - Raspberry Pi 4
-    - Composite Video Output (3.5mm AV jack) for display
-- **Sensors**:
-  - Optical Flow Sensor: MTF-01
-- **Communication Modules**:
-  - HC12 Module (115200 bps)
+## 🛠️ Key Projects
 
-## 🚁 Projects
-- **Quadcopter Development**:
-  - Drone control using optical flow for navigation.
-  - Flight time tracking with DroneKit and STM32 timers.
-  - First-Person View (FPV) setup using a USB camera and Video Transmitter (VTX).
-- **Vehicle Input Component Integration**.
-- **Streaming**: 
-  - Goal: Achieving 10 FPS video stream.
+Here are some of my main repositories:
 
-## 🛠️ Frameworks, Libraries, and Tools
-- **Languages**:
-  - Python
-  - C/C++
-- **Frameworks**:
-  - FastAPI (backend)
-  - ReactJS (frontend)
-- **Middleware**:
-  - Custom `UserIdMiddleware` in FastAPI.
-  - Dependency Injection using `Depends`.
-- **Libraries**:
-  - DroneKit for drone programming.
-  - MFRC522 for RFID integration.
-  - MAVLink 2 for UAV communication.
-- **Databases**:
-  - MongoDB (via Docker).
+### Featured Projects
 
-## 📡 Communication and Networking
-- **Protocols**:
-  - MAVLink 2
-  - Socket.IO
-- **Baud Rates**:
-  - `/dev/ttyS0` connection at 115200.
+- [**App DA2 SPKT**](https://github.com/VM-Thuan-2003/app-da2-spkt)  
+  Advanced drone and embedded systems development, integrating cutting-edge technology for autonomous applications.
 
-## 🛠️ Development Practices
-- **Version Control**: Git
-- **File Naming**:
-  - Uses a count variable instead of timestamps for file naming.
-- **Timer Usage**:
-  - STM32 for precise timekeeping.
+- [**Do An 1**](https://github.com/VM-Thuan-2003/do_an_1)  
+  A foundational project exploring embedded systems and IoT technologies.
 
-## 🚀 Goals
-- Implement robust optical flow-based navigation for drones.
-- Enhance FPV streaming quality.
-- Efficient integration of FastAPI and ReactJS in full-stack development.
+- [**TT XLA SPK**](https://github.com/VM-Thuan-2003/TT_XLA_SPK)  
+  A project focused on image processing and related technologies.
 
-## 📫 Get in Touch
-Feel free to reach out to discuss projects, collaboration, or ideas!
+- [**ML SPKT**](https://github.com/VM-Thuan-2003/ML_SPKT)  
+  A machine learning project focused on data-driven approaches and predictive models.
+
+- [**TT HTN SPK**](https://github.com/VM-Thuan-2003/TT_HTN_SPK)  
+  Neural networks and computational intelligence, with applications in artificial intelligence.
+
+- [**ESP HTN**](https://github.com/VM-Thuan-2003/esp_htn)  
+  An ESP32-based project focusing on hardware and software integration.
+
+- [**Web HTN**](https://github.com/VM-Thuan-2003/web_htn)  
+  A web development project showcasing modern front-end and back-end technologies.
+
+### Other Projects
+
+- **Drone Projects**:
+  - [Quadcopter Navigation Using Optical Flow](https://github.com/username/optical-flow-navigation)  
+    Optical flow-based navigation for drones, ideal for indoor and GPS-free environments.
+  - [FPV Video Streaming](https://github.com/username/fpv-streaming)  
+    FPV setup using a USB camera and VTX, optimized for 10 FPS streaming.
+
+- **FastAPI Projects**:
+  - [FastAPI Middleware Demo](https://github.com/username/fastapi-middleware-demo)  
+    Example of custom middleware and dependency injection using `Depends` in FastAPI.
+  - [Socket.IO with FastAPI](https://github.com/username/socketio-fastapi)  
+    Real-time functionality with Socket.IO and FastAPI.
+
+- **Embedded Systems**:
+  - [STM32 Flight Timer](https://github.com/username/stm32-flight-timer)  
+    A flight timer for quadcopters, using STM32 timers for precise timekeeping.
+  - [RFID Integration with ESP32](https://github.com/username/esp32-rfid)  
+    RFID integration with ESP32 using MFRC522, compatible with SPI, I2C, and UART.
+
+## 🌐 Get in Touch
+Feel free to explore my repositories, contribute to ongoing projects, or reach out for collaboration!
+
+- 📧 **Email**: [vmthuan16052003@gmail.com](mailto:vmthuan16052003@gmail.com)
+
+Let's build something amazing together!
