@@ -3,12 +3,17 @@
 Hello! I'm a developer focused on embedded systems, robotics, machine learning, and web technologies. I love working on projects that integrate hardware and software, with an emphasis on practical applications such as drones, IoT, and FPV systems.
 
 ## 🚀 Technologies & Tools
-- **Languages**: Python, C/C++
+- **Languages**: Python, C/C++, JavaScript, C#
 - **Microcontrollers & SBCs**: ESP32, STM32, Raspberry Pi 4
 - **Frameworks & Libraries**: FastAPI (backend), ReactJS (frontend), DroneKit, MFRC522, MAVLink 2, TensorFlow
 - **Databases**: MongoDB (via Docker)
 - **Communication**: MAVLink 2, Socket.IO, HC12 modules
-- **Development Tools**: Visual Studio Code, VNC Viewer
+- **Development Tools**: 
+  - Visual Studio Code
+  - VNC Viewer
+  - Docker
+  - PlatformIO
+  - STM32 Development Environment
 
 ## 🛠️ Key Projects
 
