@@ -60,7 +60,8 @@ Here are some of my main repositories:
 ## 🌐 Get in Touch
 Feel free to explore my repositories, contribute to ongoing projects, or reach out for collaboration!
 
-- 📧 **Email**: [your-email@example.com](mailto:your-email@example.com)
-- 💼 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- 📧 **Email**: [vmthuan16052003@gmail.com](mailto:vmthuan16052003@gmail.com)
+- 💼 **LinkedIn**: [Thuận Võ Minh](https://www.linkedin.com/in/thu%E1%BA%ADn-v%C3%B5-minh-49402630b/)
+- 🌍 **Facebook**: [Võ Minh Thuan](https://www.facebook.com/vominh.thuan.1004/)
 
 Let's build something amazing together!
